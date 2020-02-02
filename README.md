@@ -1,21 +1,21 @@
 # WiFi-Pineapple-NANO-for-China
- 
-  -Board size: 50mmX85mm.
-  -The system reset key uses GPIO15, which is active high. Determine the actual situation (according to the manual).
-  -The superscript NC on the component means not soldering, and the plus / minus value means there is a backup solution.
-  -Each component is marked with a reference number.
+ 
+ - 板子尺寸：50mmX85mm。
+ - 系统复位键使用的是GPIO15，高电平有效，确定一下实际情况（按手册上做的）。
+ - 元件上标NC是代表不焊的意思，加/有数值的代表有后备方案。
+ - 每个元件均标出位号，焊接参考位号。
 
- Copy a domestic WifiPineapple NANO with my friends
- ! [WiFi-Pineapple-NANO-for-China] (/ img / 20171013100914.jpg)
- Only completed the hardware part
+和小伙伴一起抄板某国产WifiPineapple NANO
+![WiFi-Pineapple-NANO-for-China](/img/20171013100914.jpg)
+只完成了硬件部分
 
- AR9331 + AR9271 module
+AR9331 + AR9271 模块
 
- ! [AR9331-1] (/ img / AR9331-1.jpg)
- ! [AR9331-2] (/ img / AR9331-2.jpg)
- ! [AR9271-1] (/ img / AR9271-1.jpg)
- ! [AR9271-2] (/ img / AR9271-2.jpg)
+![AR9331-1](/img/AR9331-1.jpg)
+![AR9331-2](/img/AR9331-2.jpg)
+![AR9271-1](/img/AR9271-1.jpg)
+![AR9271-2](/img/AR9271-2.jpg)
 
- Software part can refer to the following 2 websites
-  -http://zy-link.xyz:8001
-  -http://wifipi.org:8080
+软件部分可以参考下面2个网站
+ - http://zy-link.xyz:8001
+ - http://wifipi.org:8080
