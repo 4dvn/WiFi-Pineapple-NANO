@@ -10,14 +10,14 @@
 ```
 ## Only completed the hardware part
 ## AR9331 + AR9271 module
-```
+
 ![AR9331-1](/img/AR9331-1.jpg)
 ![AR9331-2](/img/AR9331-2.jpg)
 ![AR9271-1](/img/AR9271-1.jpg)
 ![AR9271-2](/img/AR9271-2.jpg)
-```
+
 ## Software part can refer to the following 2 websites
 ```
- * http://zy-link.xyz:8001
- * http://wifipi.org:8080
+  http://zy-link.xyz:8001
+  http://wifipi.org:8080
 ```
