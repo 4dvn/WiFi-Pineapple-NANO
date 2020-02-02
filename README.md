@@ -1,9 +1,9 @@
 # WiFi-Pineapple-NANO-for-China
  
-  -Board size: 50mmX85mm.
-  -The system reset key uses GPIO15, which is active high. Determine the actual situation (according to the manual).
-  -The superscript NC on the component means not soldering, and the plus / minus value means there is a backup solution.
-  -Each component is marked with a reference number.
+ -Board size: 50mmX85mm.
+ -The system reset key uses GPIO15, which is active high. Determine the actual situation (according to the manual).
+ -The superscript NC on the component means not soldering, and the plus / minus value means there is a backup solution.
+ -Each component is marked with a reference number.
 
  Copy a domestic WifiPineapple NANO with my friends
 ![WiFi-Pineapple-NANO-for-China](/img/20171013100914.jpg)
