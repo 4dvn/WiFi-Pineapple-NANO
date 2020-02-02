@@ -1,4 +1,4 @@
-# WiFi-Pineapple-NANO-for-China
+# WiFi-Pineapple-NANO
  
  -Board size: 50mmX85mm.
  -The system reset key uses GPIO15, which is active high. Determine the actual situation (according to the manual).
