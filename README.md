@@ -18,6 +18,8 @@
 
 ## Software part can refer to the following 2 websites
 ```
-  http://zy-link.xyz:8001
-  http://wifipi.org:8080
+  http://zy-link.xyz:8001 // firmware
+  http://wifipi.org:8080 // document old
+  http://wifipi.org:8090 // document new
+  http://wifipi.org:8001 
 ```
