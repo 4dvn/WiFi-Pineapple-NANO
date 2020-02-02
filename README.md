@@ -6,8 +6,9 @@
  * Each component is marked with a reference number.
 
  * Copy a domestic WifiPineapple NANO with my friends
+ ```
 ![WiFi-Pineapple-NANO-for-China](/img/20171013100914.jpg)
-```
+
 ## Only completed the hardware part
 ## AR9331 + AR9271 module
 
